@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Title1</title>
+    <p>Salut</p>
 </head>
 <body>
 
